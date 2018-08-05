@@ -34,5 +34,5 @@ app.post('/data', (req, res)=>{
 })
 
 app.listen(3210, ()=>{
-    console.log('Server backend aktif!');
+    console.log('Server aktif @port 3210!');
 })
